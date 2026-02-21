@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/TestRoot3/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "하루네",
+    "description": "범죄도시 (NeoForge v21.4.156)",
+    "icon": "https://hanol0927.github.io/haru/servers/haru-1.21.4/Icon.png",
+    "address": "182.216.39.123:20016",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "neoforge": {
+    "version": "21.4.156"
+  },
+  "untrackedFiles": []
+}
